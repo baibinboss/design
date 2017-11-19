@@ -1,5 +1,8 @@
 package com.baibin;
 
+/**
+ * 装饰类
+ */
 public class Finery extends Person {
     protected Person component;
 
